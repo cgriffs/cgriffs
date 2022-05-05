@@ -1,10 +1,19 @@
 # 👋 Hi, I’m Caleb, aka cgriffs 👋 
 
 ## Connect with me
+
 ![](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-github-50.png)
+
 ![](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-gmail-50.png)
 ![](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-website-50.png)
-![https://www.linkedin.com/in/cgriffs/](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-linkedin-50.png)
+
+[![Linked In Icon](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-website-50.png)][linkedIn]
+
+
+[![A link to Calebs LinkedIn][linkedInIcon]](linkedIn)
+
+[linkedIn]: https://www.linkedin.com/in/cgriffs/
+[linkedInIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-linkedin-50.png
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
