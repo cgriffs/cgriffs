@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @cgriffs
+# 👋 Hi, I’m Caleb, aka cgriffs 👋 
+
+## Connect with me
+![](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-github-50.png)
+![](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-gmail-50.png)
+![](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-website-50.png)
+![https://www.linkedin.com/in/cgriffs/](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-linkedin-50.png)
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
