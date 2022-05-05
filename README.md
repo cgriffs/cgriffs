@@ -2,18 +2,15 @@
 
 ## Connect with me
 
-![](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-github-50.png)
+[![][linkedInIcon]](https://www.linkedin.com/in/cgriffs/)
+[![][gmailIcon]](cgriffs98@gmail.com)
+[![][websiteIcon]](https://cgriffs98.wixsite.com/caleb-griffin)
+[![][githubIcon]](https://github.com/cgriffs)
 
-![](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-gmail-50.png)
-![](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-website-50.png)
-
-[![Linked In Icon](https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-website-50.png)][linkedIn]
-
-
-[![A link to Calebs LinkedIn][linkedInIcon]](linkedIn)
-
-[linkedIn]: https://www.linkedin.com/in/cgriffs/
 [linkedInIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-linkedin-50.png
+[gmailIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-gmail-50.png
+[websiteIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-website-50.png
+[githubIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-github-50.png
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
