@@ -12,6 +12,27 @@
 [websiteIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-website-50.png
 [githubIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-github-50.png
 
+## Skills
+**Languages**
+<br/><br/>
+[![][pythonIcon]](n/a)
+[![][CplusplusIcon]](n/a)
+[![][CIcon]](n/a)
+[![][javaIcon]](n/a)
+[![][javascriptIcon]](n/a)
+
+[pythonIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-python-50.png
+[CplusplusIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-c%2B%2B-48.png
+[CIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-circled-c-50.png
+[javaIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-java-50.png
+[javascriptIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-javascript-50.png
+
+**Machine Learning**
+<br/><br/>
+[![][TFIcon]](n/a)
+
+[TFIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-tensorflow-50.png
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
