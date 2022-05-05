@@ -2,7 +2,7 @@
 <p><img align="right" alt="gif" src="https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="500" height="500" /><p>
 I am a University of Victoria Computer Science Student, Software Engineer and Researcher. I am currently focused on computer vision and machine learning projects but have an interest in everything code!
 
-## Connect with me
+### Connect with me
 
 [![][linkedInIcon]](https://www.linkedin.com/in/cgriffs/)
 [![][websiteIcon]](https://cgriffs98.wixsite.com/caleb-griffin)
