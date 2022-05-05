@@ -18,6 +18,6 @@
 - 📫 How to reach me ...
 
 <!---
-cgriffs/cgriffs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Note that all Icons used were from Icon8 
+<a target="_blank" href="https://icons8.com/icon/0tuwKqWwti2E/c">C</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 --->
