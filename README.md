@@ -1,4 +1,6 @@
 # 👋 Hi, I’m Caleb, aka cgriffs 👋 
+<p><img align="right" src"https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="500" height="500" /><p>
+
 
 ## Connect with me
 
