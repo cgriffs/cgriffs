@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Caleb, aka cgriffs 👋 
-<p><img align="right" src"https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="500" height="500" /><p>
-
+<p><img align="right" alt="gif" src="https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="500" height="500" /><p>
+I am a University of Victoria Computer Science Student, Software Engineer and Researcher. I am currently focused on computer vision and machine learning projects but have an interest in everything code!
 
 ## Connect with me
 
@@ -15,10 +15,9 @@
 [githubIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-github-50.png
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in creating useful, user first applications 
+- 🌱 I’m currently learning everything
+- ⏳ In my spare time I like hiking 🥾, coffee ☕️ and reading 📚
 
 ## Skills
 **Languages**
@@ -51,9 +50,11 @@
 <br/><br/>
 [![][wordpressIcon]](n/a)
 [![][reactIcon]](n/a)
+[![][htmlIcon]](n/a)
 
 [wordpressIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-wordpress-50.png
 [reactIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-react-50.png
+[htmlIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-html-5-48.png
 
 
 **Machine Learning**
