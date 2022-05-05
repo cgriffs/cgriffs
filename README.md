@@ -3,8 +3,8 @@
 ## Connect with me
 
 [![][linkedInIcon]](https://www.linkedin.com/in/cgriffs/)
-[![][gmailIcon]](cgriffs98@gmail.com)
 [![][websiteIcon]](https://cgriffs98.wixsite.com/caleb-griffin)
+[![][gmailIcon]](cgriffs98@gmail.com)
 [![][githubIcon]](https://github.com/cgriffs)
 
 [linkedInIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-linkedin-50.png
