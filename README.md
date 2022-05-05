@@ -12,9 +12,16 @@
 [websiteIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-website-50.png
 [githubIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-github-50.png
 
+
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
 ## Skills
 **Languages**
 <br/><br/>
+[![][vsIcon]](n/a)
 [![][pythonIcon]](n/a)
 [![][CplusplusIcon]](n/a)
 [![][CIcon]](n/a)
@@ -26,6 +33,26 @@
 [CIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-circled-c-50.png
 [javaIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-java-50.png
 [javascriptIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-javascript-50.png
+[vsIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-visual-studio-50.png
+
+**Data Processing**
+<br/><br/>
+[![][sqlIcon]](n/a)
+[![][RIcon]](n/a)
+[![][excelIcon]](n/a)
+
+[sqlIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-sql-50.png
+[RIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-r-50.png
+[excelIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-microsoft-excel-48.png
+
+**Web Development**
+<br/><br/>
+[![][wordpressIcon]](n/a)
+[![][reactIcon]](n/a)
+
+[wordpressIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-wordpress-50.png
+[reactIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-react-50.png
+
 
 **Machine Learning**
 <br/><br/>
@@ -33,10 +60,7 @@
 
 [TFIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-tensorflow-50.png
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Highlighted Projects
 
 <!---
 Note that all Icons used were from Icon8 
