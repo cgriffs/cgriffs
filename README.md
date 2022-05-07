@@ -72,7 +72,7 @@ Add a description and image here
 
 <br/><br/>
 <br/><br/>
-<br/><br/>
+
 <p align="center">
   <img src="https://github.com/cgriffs/image_icons/blob/main/cgriffsUniverseStars.gif" width="800" height="400" />
 </p>
