@@ -64,6 +64,18 @@ Hi, my name is Caleb Griffin. I am a University of Victoria Computer Science Stu
 [TFIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-tensorflow-50.png
 
 ## Highlighted Projects
+### [General Object Detection with Computer Vision](https://github.com/cgriffs/cgriffs/edit/main/README.md)
+Add a description and image here
+  
+### [Car Detection for Cyclists](https://github.com/cgriffs/cgriffs/edit/main/README.md)
+Add a description and image here
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<p align="center">
+  <img src="https://github.com/cgriffs/image_icons/blob/main/cgriffsUniverseStars.gif" width="800" height="400" />
+</p>
 
 <!---
 Note that all Icons used were from Icon8 
