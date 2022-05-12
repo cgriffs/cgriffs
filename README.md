@@ -22,19 +22,30 @@ Hi, my name is Caleb Griffin. I am a University of Victoria Computer Science Stu
 ## Skills
 **Languages**
 <br/><br/>
-[![][vsIcon]](n/a)
 [![][pythonIcon]](n/a)
 [![][CplusplusIcon]](n/a)
 [![][CIcon]](n/a)
 [![][javaIcon]](n/a)
 [![][javascriptIcon]](n/a)
 
+
 [pythonIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-python-50.png
 [CplusplusIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-c%2B%2B-48.png
 [CIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-circled-c-50.png
 [javaIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-java-50.png
 [javascriptIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-javascript-50.png
+
+  
+**Tools**
+<br/><br/>
+[![][arduinoIcon]](n/a)
+[![][vsIcon]](n/a)
+[![][rasPiIcon]](n/a)
+  
+[arduinoIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-arduino-50.png
 [vsIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-visual-studio-50.png
+[rasPiIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-raspberry-pi-new-50.png
+  
 
 **Data Processing**
 <br/><br/>
@@ -51,10 +62,12 @@ Hi, my name is Caleb Griffin. I am a University of Victoria Computer Science Stu
 [![][wordpressIcon]](n/a)
 [![][reactIcon]](n/a)
 [![][htmlIcon]](n/a)
+[![][cssIcon]](n/a)
 
 [wordpressIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-wordpress-50.png
 [reactIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-react-50.png
 [htmlIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-html-5-48.png
+[cssIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-css3-50.png
 
 
 **Machine Learning**
