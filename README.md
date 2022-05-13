@@ -1,8 +1,16 @@
-# 👋 WELCOME TO CGRIFFS GITHUB PAGE 👋 
+## Caleb Griffin Github Profile (Cgriffs)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Barlow&color=F70000&background=FF004300&center=false&vCenter=false&width=1000&height=50&lines=Welcome+to+Cgriffs+Github+Page!;Software+Development+and+Research;Always+Learning+New+Things!)](https://git.io/typing-svg)
+
+
 <p><img align="right" alt="gif" src="https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="500" height="500" /><p>
 Hi, my name is Caleb Griffin. I am a University of Victoria Computer Science Student, Software Engineer and Researcher. I am currently focused on computer vision and machine learning projects but have an interest in everything code!
 
-### Connect with me
+<h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Connect With Me!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 [![][linkedInIcon]](https://www.linkedin.com/in/cgriffs/)
 [![][websiteIcon]](https://cgriffs98.wixsite.com/caleb-griffin)
@@ -73,8 +81,10 @@ Hi, my name is Caleb Griffin. I am a University of Victoria Computer Science Stu
 **Machine Learning**
 <br/><br/>
 [![][TFIcon]](n/a)
+[![][KerasIcon]](n/a)
 
 [TFIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-tensorflow-50.png
+[KerasIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-keras-50.png
 
 ## Highlighted Projects
 ### [General Object Detection with Computer Vision](https://github.com/cgriffs/cgriffs/edit/main/README.md)
