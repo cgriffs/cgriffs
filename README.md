@@ -6,11 +6,7 @@
 <p><img align="right" alt="gif" src="https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="500" height="500" /><p>
 Hi, my name is Caleb Griffin. I am a University of Victoria Computer Science Student, Software Engineer and Researcher. I am currently focused on computer vision and machine learning projects but have an interest in everything code!
 
-<h3>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Connect With Me!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+### Connect With Me!
 
 [![][linkedInIcon]](https://www.linkedin.com/in/cgriffs/)
 [![][websiteIcon]](https://cgriffs98.wixsite.com/caleb-griffin)
