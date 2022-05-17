@@ -73,11 +73,12 @@ Personal Links:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgriffs&layout=compact&theme=calm&show_icons=true)](https://github.com/cgriffs/github-readme-stats)
 
 ## Highlighted Projects
-### [General Object Detection with Computer Vision](https://github.com/cgriffs/cgriffs/edit/main/README.md)
-Add a description and image here
-  
 ### [Car Detection for Cyclists](https://github.com/cgriffs/cgriffs/edit/main/README.md)
+Add a description and image here 
+
+### [General Object Detection with Computer Vision](https://github.com/cgriffs/Basic_CV_Object_Detection_React)
 Add a description and image here
+<p><img align="right" alt="gif" src="https://github.com/cgriffs/Basic_CV_Object_Detection_React/blob/master/CVBasicObjectDetections.gif" /><p>
 
 <br/><br/>
 <br/><br/>
