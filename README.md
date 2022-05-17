@@ -1,6 +1,6 @@
 ## Caleb Griffin Github Profile (Cgriffs)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Barlow&color=F70000&background=FF004300&center=false&vCenter=false&width=500&height=30&lines=Welcome+to+Cgriffs+Github+Page!;Software+Development+and+Research;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F79762&width=600&height=35&lines=Welcome+to+Cgriffs+Github+Page!;Software+Development+and+Research!;Any+questions%3F+%3E%3E%3E+cgriffs98%40gmail.com)](https://git.io/typing-svg)
 
 
 <p><img align="right" alt="gif" src="https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="400" height="400" /><p>
