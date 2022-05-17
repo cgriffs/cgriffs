@@ -83,8 +83,9 @@ Add a description and image here
 <br/><br/>
 
 <p align="center">
-  <img src="https://github.com/cgriffs/image_icons/blob/main/cgriffsUniverseStars.gif" width="800" height="400" />
+  <img src="https://github.com/cgriffs/image_icons/blob/main/bottom_stars.gif" width="800" height="400" />
 </p>
+
 
 <!---
 Note that all Icons used were from Icon8 
