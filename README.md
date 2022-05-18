@@ -46,6 +46,9 @@ Personal Links:
 [![][cssIcon]](https://github.com/cgriffs)
 [![][TFIcon]](https://github.com/cgriffs)
 [![][KerasIcon]](https://github.com/cgriffs)
+[![][JupyterIcon]](https://github.com/cgriffs)
+[![][InVisionIcon]](https://github.com/cgriffs)
+[![][GitIcon]](https://github.com/cgriffs)
 
 
 [pythonIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-python-50.png
@@ -65,6 +68,9 @@ Personal Links:
 [cssIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-css3-50.png
 [TFIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-tensorflow-50.png
 [KerasIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-keras-50.png
+[JupyterIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-jupyter-50.png
+[InVisionIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-invision-is-the-digital-product-design-platform-50.png
+[GitIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-git-50.png
   
 **Github Stats**
 
