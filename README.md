@@ -1,6 +1,6 @@
 ## Caleb Griffin Github Profile (Cgriffs)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F79762&width=600&height=35&lines=Welcome+to+Cgriffs+Github+Page!;Software+Development+and+Research!;Any+questions%3F+%3E%3E%3E+cgriffs98%40gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F79762&width=600&height=35&lines=Welcome+to+Cgriffs+Github+Page!;Software+Development+and+Research!;Any+questions%3F+%3E%3E%3E+cgriffs98%40gmail.com)](https://github.com/cgriffs)
 
 
 <p><img align="right" alt="gif" src="https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="400" height="400" /><p>
@@ -28,24 +28,24 @@ Personal Links:
 ## Skills
 **Tools + Languages**
 <br/><br/>
-[![][pythonIcon]](n/a)
-[![][CplusplusIcon]](n/a)
-[![][CIcon]](n/a)
-[![][javaIcon]](n/a)
-[![][javascriptIcon]](n/a)
-[![][arduinoIcon]](n/a)
-[![][vsIcon]](n/a)
-[![][rasPiIcon]](n/a)
-[![][sqlIcon]](n/a)
-[![][RIcon]](n/a)
+[![][pythonIcon]](https://github.com/cgriffs)
+[![][CplusplusIcon]](https://github.com/cgriffs)
+[![][CIcon]](https://github.com/cgriffs)
+[![][javaIcon]](https://github.com/cgriffs)
+[![][javascriptIcon]](https://github.com/cgriffs)
+[![][arduinoIcon]](https://github.com/cgriffs)
+[![][vsIcon]](https://github.com/cgriffs)
+[![][rasPiIcon]](https://github.com/cgriffs)
+[![][sqlIcon]](https://github.com/cgriffs)
+[![][RIcon]](https://github.com/cgriffs)
   
-[![][excelIcon]](n/a)
-[![][wordpressIcon]](n/a)
-[![][reactIcon]](n/a)
-[![][htmlIcon]](n/a)
-[![][cssIcon]](n/a)
-[![][TFIcon]](n/a)
-[![][KerasIcon]](n/a)
+[![][excelIcon]](https://github.com/cgriffs)
+[![][wordpressIcon]](https://github.com/cgriffs)
+[![][reactIcon]](https://github.com/cgriffs)
+[![][htmlIcon]](https://github.com/cgriffs)
+[![][cssIcon]](https://github.com/cgriffs)
+[![][TFIcon]](https://github.com/cgriffs)
+[![][KerasIcon]](https://github.com/cgriffs)
 
 
 [pythonIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/codeicons/icons8-python-50.png
@@ -68,18 +68,39 @@ Personal Links:
   
 **Github Stats**
 
-[![Cgriffs's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgriffs&theme=calm&show_icons=true&hide=prs,contribs)](https://github.com/cgriffs/github-readme-stats)
+[![Cgriffs's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgriffs&theme=calm&show_icons=true&hide=prs,contribs)](https://github.com/cgriffs)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgriffs&layout=compact&theme=calm&show_icons=true)](https://github.com/cgriffs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgriffs&layout=compact&theme=calm&show_icons=true)](https://github.com/cgriffs)
 
 ## Highlighted Projects
-### [Car Detection for Cyclists](https://github.com/cgriffs/cgriffs/edit/main/README.md)
-Add a description and image here 
+### [Car Detection for Cyclists](https://github.com/cgriffs/CV_Car_Detection_RaspPi4)
+<p>
+  <img align="right" alt="gif" src="https://github.com/cgriffs/CV_Car_Detection_RaspPi4/blob/master/CV_car_detection.gif" width="375" height="250"/>
+<p>
+  
+**About**  
+- A cyclist blindspot detection tool that allows a cyclist to be aware of vehicles approaching them from the rear
+- Runs through the Raspberry Pi 4 and uses the TFLite BBD100K model for detection
+
+**Target** 
+- Computer Vision/Machine Learning/Python/TensorFlow/Pi4
+  
+Full writeup on the project [Here](https://github.com/cgriffs/CV_Car_Detection_RaspPi4/blob/master/CyclistSupportToolML.pdf)
+<br/><br/>  
 
 ### [General Object Detection with Computer Vision](https://github.com/cgriffs/Basic_CV_Object_Detection_React)
-Add a description and image here
-<p><img align="right" alt="gif" src="https://github.com/cgriffs/Basic_CV_Object_Detection_React/blob/master/CVBasicObjectDetections.gif" /><p>
+<p>
+  <img align="right" alt="gif" src="https://github.com/cgriffs/Basic_CV_Object_Detection_React/blob/master/CVBasicObjectDetections.gif" width="375" height="280"/>
+<p>
+  
+**About**  
+- Object detection through a webcam picking up basic household objects
+- Runs through a local host react framework please refer to the repo on how to run
 
+**Target** 
+- Computer Vision/Machine Learning/TensorFlow/React/CSS/JavaScript
+
+<br/><br/>
 <br/><br/>
 <br/><br/>
 
