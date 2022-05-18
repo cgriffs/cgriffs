@@ -74,9 +74,9 @@ Personal Links:
   
 **Github Stats**
 
-[![Cgriffs's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgriffs&theme=calm&show_icons=true&hide=prs,contribs)](https://github.com/cgriffs)
+[![Cgriffs's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=cgriffs&theme=calm&show_icons=true&hide=prs,contribs)](https://github.com/cgriffs)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgriffs&layout=compact&theme=calm&show_icons=true)](https://github.com/cgriffs)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cgriffs&layout=compact&theme=calm&show_icons=true)](https://github.com/cgriffs)
 
 ## Highlighted Projects
 ### [Car Detection for Cyclists](https://github.com/cgriffs/CV_Car_Detection_RaspPi4)
