@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F79762&width=600&height=35&lines=Welcome+to+Cgriffs+Github+Page!;Software+Development+and+Research!;Any+questions%3F+%3E%3E%3E+cgriffs98%40gmail.com)](https://github.com/cgriffs)
 
+<img align="right" alt="gif" src="https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="400" height="400">
 
-<p><img align="right" alt="gif" src="https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="400" height="400" /><p>
   Hi, my name is <strong>Caleb Griffin</strong>. I am a University of Victoria Computer Science Student, Software Developer and Researcher. I am currently focused on computer vision and machine learning projects but have an interest in everything code!
 
 ### Connect With Me!
