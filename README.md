@@ -1,3 +1,5 @@
+<!--TITLE + INTRO---------------------------------------------------------------------------------------------------------------------------------------->
+
 ## Caleb Griffin Github Profile (Cgriffs)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F79762&width=600&height=35&lines=Welcome+to+Cgriffs+Github+Page!;Software+Development+and+Research!;Any+questions%3F+%3E%3E%3E+cgriffs98%40gmail.com)](https://github.com/cgriffs)
@@ -5,6 +7,8 @@
 <img align="right" alt="gif" src="https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="400" height="400">
 
   Hi, my name is <strong>Caleb Griffin</strong>. I am a University of Victoria Computer Science Student, Software Developer and Researcher. I am currently focused on computer vision and machine learning projects but have an interest in everything code!
+
+<!--SOCIAL LINKS + INTERESTS----------------------------------------------------------------------------------------------------------------------------->
 
 ### Connect With Me!
 Email: cgriffs98@gmail.com
@@ -24,6 +28,8 @@ Personal Links:
 - 👀 I’m interested in creating useful, user first applications 
 - 🌱 I’m currently learning everything
 - ⏳ In my spare time I like hiking 🥾, coffee ☕️ and reading 📚
+
+<!--SKILLS + STATS--------------------------------------------------------------------------------------------------------------------------------------->
 
 ## Skills
 **Tools + Languages**
@@ -78,6 +84,8 @@ Personal Links:
   
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cgriffs&layout=compact&theme=calm&show_icons=true)](https://github.com/cgriffs)
 
+<!--PROJECTS--------------------------------------------------------------------------------------------------------------------------------------------->
+
 ## Highlighted Projects
 ### [Car Detection for Cyclists](https://github.com/cgriffs/CV_Car_Detection_RaspPi4)
 <p>
@@ -109,6 +117,8 @@ Full writeup on the project [Here](https://github.com/cgriffs/CV_Car_Detection_R
 <br/><br/>
 <br/><br/>
 <br/><br/>
+
+<!--END BANNER------------------------------------------------------------------------------------------------------------------------------------------->
 
 <p align="center">
   <img src="https://github.com/cgriffs/image_icons/blob/main/bottom_stars.gif" width="800" height="400" />
