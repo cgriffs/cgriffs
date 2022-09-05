@@ -16,7 +16,7 @@ Email: cgriffs98@gmail.com
 Personal Links:
   
 [![][linkedInIcon]](https://www.linkedin.com/in/cgriffs/)
-[![][websiteIcon]](https://cgriffs98.wixsite.com/caleb-griffin)
+[![][websiteIcon]](https://cgriffs.vercel.app/)
 [![][githubIcon]](https://github.com/cgriffs)
   
 [linkedInIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-linkedin-50.png
