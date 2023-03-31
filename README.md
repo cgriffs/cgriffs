@@ -6,7 +6,7 @@
 
 <img align="right" alt="gif" src="https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="400" height="400">
 
-  Hi, my name is <strong>Caleb Griffin</strong>. I am a University of Victoria Computer Science Student, Software Developer and Researcher. I am currently focused on computer vision and machine learning projects but have an interest in everything code!
+  Hi, my name is <strong>Caleb Griffin</strong>. I am a Software Development Manager with iTOTEM Analytics. I am currently focused on computer vision and machine learning projects but have an interest in everything code!
 
 <!--SOCIAL LINKS + INTERESTS----------------------------------------------------------------------------------------------------------------------------->
 
@@ -16,7 +16,6 @@ Email: cgriffs98@gmail.com
 Personal Links:
   
 [![][linkedInIcon]](https://www.linkedin.com/in/cgriffs/)
-[![][websiteIcon]](https://cgriffs.vercel.app/)
 [![][githubIcon]](https://github.com/cgriffs)
   
 [linkedInIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-linkedin-50.png
