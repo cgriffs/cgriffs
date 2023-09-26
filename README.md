@@ -117,11 +117,8 @@ Full writeup on the project [Here](https://github.com/cgriffs/CV_Car_Detection_R
 <br/><br/>
 <br/><br/>
 
-<!--END BANNER------------------------------------------------------------------------------------------------------------------------------------------->
+<!--END -------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<p align="center">
-  <img src="https://github.com/cgriffs/image_icons/blob/main/bottom_stars.gif" width="800" height="400" />
-</p>
 
 
 <!---
