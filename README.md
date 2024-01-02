@@ -1,8 +1,8 @@
 <!--TITLE + INTRO---------------------------------------------------------------------------------------------------------------------------------------->
 
-## Caleb Griffin Github Profile (Cgriffs)
+## Caleb Griffin - Github Profile
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F79762&width=600&height=35&lines=Welcome+to+Cgriffs+Github+Page!;Software+Development+and+Research!;Any+questions%3F+%3E%3E%3E+cgriffs98%40gmail.com)](https://github.com/cgriffs)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F79762&width=600&height=35&lines=Welcome+to+My+Github+Page!;Reach+me+at+%3E%3E%3E+cgriffs98%40gmail.com)](https://github.com/cgriffs)
 
 <img align="right" alt="gif" src="https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="400" height="400">
 
