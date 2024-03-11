@@ -1,6 +1,6 @@
 <!--TITLE + INTRO---------------------------------------------------------------------------------------------------------------------------------------->
 <p align="center" width="100%">
-  <img align="center" src="https://github.com/cgriffs/cgriffs/blob/main/images/other/main_logo.png" width="500" height="500">
+  <img align="center" src="https://github.com/cgriffs/cgriffs/blob/main/images/other/main_logo.png" width="500" height="300">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=000000&background=38B6FF&center=true&vCenter=true&random=false&width=435&lines=WELCOME+TO+MY+PERSONAL+PAGE;LETS+CONNECT;LINKS+BELOW" alt="Typing SVG" />
   </a>
 </p>
@@ -15,6 +15,7 @@ I'm a Full-Stack Developer with a drive for building end-to-end solutions. Speci
 💼 Current Role: Senior Manager of Technology and Innovation
 
 <!--SOCIAL LINKS + INTERESTS----------------------------------------------------------------------------------------------------------------------------->
+<br/><br/>
 
 ### Connect With Me!
 Email: cgriffs98@gmail.com
