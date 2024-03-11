@@ -1,13 +1,18 @@
 <!--TITLE + INTRO---------------------------------------------------------------------------------------------------------------------------------------->
+<p align="center" width="100%">
+  <img align="center" src="https://github.com/cgriffs/cgriffs/blob/main/images/other/main_logo.png" width="500" height="500">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=000000&background=38B6FF&center=true&vCenter=true&random=false&width=435&lines=WELCOME+TO+MY+PERSONAL+PAGE;LETS+CONNECT;LINKS+BELOW" alt="Typing SVG" />
+  </a>
+</p>
 
-## Caleb Griffin - Github Profile
+## About Me
+I'm a Full-Stack Developer with a drive for building end-to-end solutions. Specializing in both front and backend technologies, I aim to deliver seamless and efficient digital experiences.
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F79762&width=600&height=35&lines=Welcome+to+My+Github+Page!;Reach+me+at+%3E%3E%3E+cgriffs98%40gmail.com)](https://github.com/cgriffs)
+🔍 Explore my repositories to see how I solve complex challenges with modern innovation.
 
+💡 I'm dedicated to creating impactful solutions that make a difference in the tech landscape.
 
-<img align="right" alt="gif" src="https://github.com/cgriffs/image_icons/blob/main/codewithcgriffs.gif" width="400" height="400">
-
-  Hi, my name is <strong>Caleb Griffin</strong>. I am a Software Development Manager with iTOTEM Analytics. I am currently focused on computer vision and machine learning projects but have an interest in everything code!
+💼 Current Role: Senior Manager of Technology and Innovation
 
 <!--SOCIAL LINKS + INTERESTS----------------------------------------------------------------------------------------------------------------------------->
 
@@ -24,10 +29,6 @@ Personal Links:
 [websiteIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-website-50.png
 [githubIcon]: https://github.com/cgriffs/image_icons/blob/main/IconFolder/socialsicons/icons8-github-50.png
 
-
-- 👀 I’m interested in creating useful, user first applications 
-- 🌱 I’m currently learning everything
-- ⏳ In my spare time I like hiking 🥾, coffee ☕️ and reading 📚
 
 <!--PROJECTS--------------------------------------------------------------------------------------------------------------------------------------------->
 
