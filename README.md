@@ -31,8 +31,30 @@ Personal Links:
 
 
 <!--PROJECTS--------------------------------------------------------------------------------------------------------------------------------------------->
-
 ## Highlighted Projects
+### [SLP Private Practice Analysis - UofA SLP Rehabilitation Science](https://app.powerbi.com/view?r=eyJrIjoiOGVlMDExZTAtMGY4MS00YTY0LTk1YWQtMzA5ZWQ2MWZmNjkwIiwidCI6IjdhOGYyNjJiLWU2ZTMtNGRmYi05ZmY3LWMyZDkxYmQyOWEzMiJ9)
+<p>
+  <img align="right" alt="gif" src="https://github.com/cgriffs/SLP_UofA_PrivatePracticeStudy/blob/main/slp_image.png" width="375" height="250"/>
+<p>
+  
+**About**  
+The SLP Private Practice Analysis tool is a powerful application designed to streamline the collection, transformation, and analysis of data from Speech-Language Pathology (SLP) private practices. By automating the process of scraping relevant websites for data, transforming this data for clarity and usability, and then visualizing it in Power BI, this tool provides invaluable insights into the operational and clinical aspects of SLP private practices. Our aim is to empower practitioners, administrators, and researchers with the data they need to make informed decisions, enhance service delivery, and ultimately improve client outcomes.
+
+
+**Target Audience** 
+This project is tailored for a wide range of stakeholders within the Speech-Language Pathology field, including:
+
+- **SLP Professionals and Clinicians:** Who seek to understand better and improve their practice's operational efficiency and clinical outcomes.
+- **SLP Researchers:** Interested in analyzing trends, patterns, and benchmarks in private practice settings.
+- **Healthcare Administrators:** Looking for data-driven insights to optimize the management and operational aspects of SLP private practices.
+- **SLP Students and Educators:** Who can use the insights generated from the analysis for educational purposes or to inform their studies and future practice.
+
+By providing a tool that simplifies the process of data collection, transformation, and analysis, we aim to make data-driven insights more accessible to all levels of interest and expertise within the SLP community.
+  
+Live Dashboard [Here](https://app.powerbi.com/groups/me/reports/3b335cb3-5d61-48aa-afb6-a8dabb1fe4c9/ReportSection?experience=power-bi)
+<br/><br/>  
+
+
 ### [Car Detection for Cyclists](https://github.com/cgriffs/CV_Car_Detection_RaspPi4)
 <p>
   <img align="right" alt="gif" src="https://github.com/cgriffs/CV_Car_Detection_RaspPi4/blob/master/CV_car_detection.gif" width="375" height="250"/>
