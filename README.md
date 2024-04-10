@@ -12,10 +12,9 @@ I'm a Full-Stack Developer with a drive for building end-to-end solutions. Speci
 
 💡 I'm dedicated to creating impactful solutions that make a difference in the tech landscape.
 
-💼 Current Role: Senior Manager of Technology and Innovation
+💼 Current Role: Senior Manager of Technology and Business Development
 
 <!--SOCIAL LINKS + INTERESTS----------------------------------------------------------------------------------------------------------------------------->
-<br/><br/>
 
 ### Connect With Me!
 Email: cgriffs98@gmail.com
@@ -49,21 +48,7 @@ Personal Links:
 Full writeup on the project [Here](https://github.com/cgriffs/CV_Car_Detection_RaspPi4/blob/master/CyclistSupportToolML.pdf)
 <br/><br/>  
 
-### [General Object Detection with Computer Vision](https://github.com/cgriffs/Basic_CV_Object_Detection_React)
-<p>
-  <img align="right" alt="gif" src="https://github.com/cgriffs/Basic_CV_Object_Detection_React/blob/master/CVBasicObjectDetections.gif" width="375" height="280"/>
-<p>
-  
-**About**  
-- Object detection through a webcam picking up basic household objects
-- Runs through a local host react framework please refer to the repo on how to run
 
-**Target** 
-- Computer Vision/Machine Learning/TensorFlow/React/CSS/JavaScript
-
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
 <!--SKILLS + STATS--------------------------------------------------------------------------------------------------------------------------------------->
 
